@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleAppVersionParser", "GoogleAppVersionParser\GoogleAppVersionParser.csproj", "{675C6055-172B-45C5-833D-4AA8150DCACB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestParser", "TestParser\TestParser.csproj", "{1B9EF085-5399-4487-96DB-6A3D56A09B86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{675C6055-172B-45C5-833D-4AA8150DCACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{675C6055-172B-45C5-833D-4AA8150DCACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{675C6055-172B-45C5-833D-4AA8150DCACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{675C6055-172B-45C5-833D-4AA8150DCACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B9EF085-5399-4487-96DB-6A3D56A09B86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B9EF085-5399-4487-96DB-6A3D56A09B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B9EF085-5399-4487-96DB-6A3D56A09B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B9EF085-5399-4487-96DB-6A3D56A09B86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A3317F4-909D-47C3-BCB5-2CA74230215E}
+	EndGlobalSection
+EndGlobal
